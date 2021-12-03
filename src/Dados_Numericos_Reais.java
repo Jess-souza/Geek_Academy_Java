@@ -18,5 +18,15 @@ public class Dados_Numericos_Reais {
     System.out.println("double -> preco2 = " + preco2);
     System.out.println("Float -> preco3 = " + preco3);
     System.out.println("Double -> preco4 = " + preco4);
+
+    System.out.println("float/Float " + Float.SIZE + " bits");
+    System.out.println("double/Double " + Double.SIZE + " bits");
+
+    System.out.println("Valor Min float/Float " + Float.MIN_VALUE);
+    System.out.println("Valor Max float/Float " + Float.MAX_VALUE);
+
+    System.out.println("Valor Min double/Double " + Double.MIN_VALUE);
+    System.out.println("Valor Max double/Double " + Double.MAX_VALUE);
+
     }
 }
