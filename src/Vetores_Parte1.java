@@ -14,8 +14,8 @@ numeros[3]= 7; // quarto elemento
 numeros[4]= 9; // quinto elemento
 
 */
-
-public class Vetores {
+//Vetores parte 1
+public class Vetores_Parte1 {
     public static void main(String[] args) {
         //Declarar um vetor
         int vetor[];
